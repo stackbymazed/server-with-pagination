@@ -16,14 +16,10 @@ A simple backend API built with **Express.js** and **Prisma ORM**.
 ## 📁 Project Structure
 
 
-
 ---
-
-## ⚙️ Setup Instructions
 
 ### 1. Install dependencies
 
-```bash
 npm install
 
 DATABASE_URL="your_database_connection_string"
